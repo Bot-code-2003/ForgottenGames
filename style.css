@@ -16,10 +16,12 @@ a {
   color: #e9b824;
   text-decoration: none;
   text-align: center;
+  transition: 0.2s;
 }
 a:hover {
   color: #d83f31;
   border: #ee9322 solid;
+  transition: 0.3s;
 }
 
 .heading {
@@ -37,4 +39,12 @@ a:hover {
   max-width: 90%;
   max-height: 80%;
   text-align: center;
+}
+img {
+  width: 190px;
+  transition: 0.2s;
+}
+img:hover {
+  transition: 0.3s;
+  transform: scale(1.25);
 }
