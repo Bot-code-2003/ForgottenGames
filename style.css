@@ -1,0 +1,40 @@
+body {
+  font-family: "Pixelify Sans", sans-serif;
+  font-size: x-large;
+  background-color: #26b2a4;
+}
+hr {
+  color: #b62f23;
+}
+h1,
+h2 {
+  color: #d83f31;
+  text-align: center;
+}
+
+a {
+  color: #e9b824;
+  text-decoration: none;
+  text-align: center;
+}
+a:hover {
+  color: #d83f31;
+  border: #ee9322 solid;
+}
+
+.heading {
+  color: #d83f31;
+}
+.heading:hover {
+  color: #cc5933;
+  text-decoration: dotted;
+  border: none;
+}
+.container {
+  margin: 0 auto;
+  background-color: #269186;
+  padding-top: 10px;
+  max-width: 90%;
+  max-height: 80%;
+  text-align: center;
+}
