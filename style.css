@@ -8,8 +8,14 @@ hr {
 }
 h1,
 h2 {
-  color: #d83f31;
+  color: #9b332a;
   text-align: center;
+}
+
+h1 {
+  margin: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 a {
@@ -25,7 +31,7 @@ a:hover {
 }
 
 .heading {
-  color: #d83f31;
+  color: #9b332a;
 }
 .heading:hover {
   color: #cc5933;
@@ -36,15 +42,37 @@ a:hover {
   margin: 0 auto;
   background-color: #269186;
   padding-top: 10px;
-  max-width: 90%;
+  max-width: 80%;
   max-height: 80%;
   text-align: center;
+  position: relative;
+  top: 80px;
+  border: 1px solid #40bcb0;
 }
+
+.dharmadeep {
+  position: absolute;
+  background-color: #cd9d0e;
+  padding: 3px;
+  border: 1px solid #cc5933;
+  color: white;
+  top: -17px;
+  left: -55px;
+}
+
 img {
-  width: 190px;
+  width: 80px;
   transition: 0.2s;
+  margin-top: 47px;
+  margin-bottom: 40px;
 }
 img:hover {
   transition: 0.3s;
   transform: scale(1.25);
+}
+.villan img {
+  margin: 0;
+}
+.villan img:hover {
+  transform: scale(1.15);
 }
