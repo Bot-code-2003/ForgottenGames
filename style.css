@@ -59,11 +59,11 @@ a:hover {
   top: -17px;
   left: -55px;
 }
-img.bird{
-  width: 80px;
-  transition: 0.2s;
-  margin-top: 47px;
-  margin-bottom: 40px;
+img.bird {
+    width: 161px;
+    transition: 0.2s;
+    margin-top: 9px;
+    margin-bottom: 6px;
 }
 img:hover {
   transition: 0.3s;
