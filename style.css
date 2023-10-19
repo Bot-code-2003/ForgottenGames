@@ -43,11 +43,11 @@ a:hover {
   background-color: #269186;
   padding-top: 10px;
   max-width: 80%;
-  max-height: 80%;
+  max-height: 50%;
   text-align: center;
   position: relative;
-  top: 80px;
   border: 1px solid #40bcb0;
+  margin-top:30px;
 }
 
 .dharmadeep {
