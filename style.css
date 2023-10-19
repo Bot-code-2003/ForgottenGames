@@ -1,3 +1,33 @@
+@media (max-width: 390px){
+h1{
+font-size: 25px;
+}
+h2{
+font-size: 22px;
+}
+.villan img{
+width: 39px;
+}
+a{
+font-size: 20px;
+}
+.dharmadeep {
+  position: absolute;
+  background-color: #cd9d0e;
+  padding: 3px;
+  border: 1px solid #cc5933;
+  color: white;
+  top: 20px;
+  font-size: 10px;
+  margin-left: 30px;
+}
+.container{
+margin-left: 30px !important; 
+}
+img.bird{
+width: 63px !important;
+}
+}
 body {
   font-family: "Pixelify Sans", sans-serif;
   font-size: x-large;
